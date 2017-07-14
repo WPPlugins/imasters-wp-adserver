@@ -1,0 +1,1379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP AdServer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 17:23-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../imasters-wp-adserver-add.php:11
+#: ../imasters-wp-adserver-add.php:187
+msgid "Add the ad"
+msgstr "Adicionar o anúncio"
+
+#: ../imasters-wp-adserver-add.php:20
+#: ../imasters-wp-adserver-manager-default-ad.php:24
+#: ../imasters-wp-adserver-manager.php:36
+#, php-format
+msgid "The uploaded file exceeds the max upload size permited (%s)."
+msgstr "O arquivo enviado excedeu o limite máximo permitido (%s)."
+
+#: ../imasters-wp-adserver-add.php:54
+msgid "Ad added successfully"
+msgstr "Anúncio adicionado com sucesso."
+
+#: ../imasters-wp-adserver-add.php:56
+#: ../imasters-wp-adserver-manager.php:99
+msgid "Manager the ads."
+msgstr "Gerenciar os anúncios."
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "January"
+msgstr "Janeiro"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "February"
+msgstr "Fevereiro"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "March"
+msgstr "Março"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "April"
+msgstr "Abril"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "May"
+msgstr "Maio"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "June"
+msgstr "Junho"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "July"
+msgstr "Julho"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "August"
+msgstr "Agosto"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "September"
+msgstr "Setembro"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "October"
+msgstr "Outubro"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "November"
+msgstr "Novembro"
+
+#: ../imasters-wp-adserver-add.php:69
+#: ../imasters-wp-adserver-manager.php:126
+msgid "December"
+msgstr "Dezembro"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Sunday"
+msgstr "Domingo"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: ../imasters-wp-adserver-add.php:77
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: ../imasters-wp-adserver-add.php:77
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Satudary"
+msgstr "Sábado"
+
+#: ../imasters-wp-adserver-add.php:79
+#: ../imasters-wp-adserver-manager.php:136
+msgid "Before"
+msgstr "Anterior"
+
+#: ../imasters-wp-adserver-add.php:79
+#: ../imasters-wp-adserver-manager.php:136
+msgid "Next"
+msgstr "Próximo"
+
+#: ../imasters-wp-adserver-add.php:79
+#: ../imasters-wp-adserver-manager.php:136
+msgid "Close"
+msgstr "Fechar"
+
+#: ../imasters-wp-adserver-add.php:79
+#: ../imasters-wp-adserver-manager.php:136
+msgid "Choose date"
+msgstr "Escolher data"
+
+#: ../imasters-wp-adserver-add.php:89
+#: ../imasters-wp-adserver.php:172
+msgid "Add ad"
+msgstr "Adicionar anúncio"
+
+#: ../imasters-wp-adserver-add.php:96
+#: ../imasters-wp-adserver-manager.php:148
+msgid "Ad group"
+msgstr "Grupo do anúncio"
+
+#: ../imasters-wp-adserver-add.php:111
+#: ../imasters-wp-adserver-manager-default-ad.php:174
+#: ../imasters-wp-adserver-manager.php:163
+msgid "Any group ad found. Create one first."
+msgstr "Nenhum grupo de anúncios criado."
+
+#: ../imasters-wp-adserver-add.php:114
+msgid "Add group"
+msgstr "Adicionar Grupo de anúncio"
+
+#: ../imasters-wp-adserver-add.php:123
+#: ../imasters-wp-adserver-manager.php:170
+msgid "Ad title"
+msgstr "Título do anúncio"
+
+#: ../imasters-wp-adserver-add.php:131
+#: ../imasters-wp-adserver-manager.php:178
+msgid "The ad"
+msgstr "O anúncio"
+
+#: ../imasters-wp-adserver-add.php:136
+#: ../imasters-wp-adserver-manager-default-ad.php:130
+#: ../imasters-wp-adserver-manager.php:187
+msgid "Ad file."
+msgstr "Arquivo do anúncio"
+
+#: ../imasters-wp-adserver-add.php:138
+#: ../imasters-wp-adserver-manager-default-ad.php:132
+#: ../imasters-wp-adserver-manager.php:189
+msgid "Select an image file (gif, jpg) or a Flash file (swf)."
+msgstr "Selecione uma imagem (gif, jpg) ou um arquivo em Flash (swf)."
+
+#: ../imasters-wp-adserver-add.php:142
+#: ../imasters-wp-adserver-manager-default-ad.php:136
+#: ../imasters-wp-adserver-manager.php:193
+msgid "Ad text."
+msgstr "Texto do anúncio"
+
+#: ../imasters-wp-adserver-add.php:144
+#: ../imasters-wp-adserver-manager-default-ad.php:138
+#: ../imasters-wp-adserver-manager.php:195
+msgid "JavaScript (Google AdSense) or HTML (link ad)."
+msgstr "JavaScript (Google AdSense) ou HTML (anúncio de texto (link))."
+
+#: ../imasters-wp-adserver-add.php:148
+#: ../imasters-wp-adserver-manager-default-ad.php:142
+#: ../imasters-wp-adserver-manager.php:199
+msgid "Ad remote"
+msgstr "Anúncio remoto"
+
+#: ../imasters-wp-adserver-add.php:150
+#: ../imasters-wp-adserver-add.php:160
+#: ../imasters-wp-adserver-manager-default-ad.php:144
+#: ../imasters-wp-adserver-manager-default-ad.php:154
+#: ../imasters-wp-adserver-manager.php:201
+#: ../imasters-wp-adserver-manager.php:211
+msgid "Please include <strong>http://</strong> or <strong>ftp://</strong> in front."
+msgstr "Por favor, inclua <strong>http://</strong> ou <strong>ftp://</strong> na frente."
+
+#: ../imasters-wp-adserver-add.php:156
+#: ../imasters-wp-adserver-manager.php:207
+#: ../imasters-wp-adserver-manager.php:257
+msgid "Ad link"
+msgstr "Link do anúncio"
+
+#: ../imasters-wp-adserver-add.php:165
+#: ../imasters-wp-adserver-manager.php:216
+msgid "Active the ad?"
+msgstr "Ativar o anúncio?"
+
+#: ../imasters-wp-adserver-add.php:169
+#: ../imasters-wp-adserver-manager.php:220
+msgid "Yes. Active the ad."
+msgstr "Sim. Adicionar o anúncio."
+
+#: ../imasters-wp-adserver-add.php:172
+#: ../imasters-wp-adserver-manager.php:223
+msgid "No. I´ll active later in Manager ads."
+msgstr "Não. Irei ativá-lo posteriormente no Gerenciador de anúncios."
+
+#: ../imasters-wp-adserver-add.php:177
+#: ../imasters-wp-adserver-manager.php:228
+msgid "Ad expiration date"
+msgstr "Data de expiração do anúncio"
+
+#: ../imasters-wp-adserver-add.php:181
+#: ../imasters-wp-adserver-manager.php:233
+msgid "Display the ad until the informed date of expiration."
+msgstr "Exibir o anúncio até a data de expiração informada."
+
+#: ../imasters-wp-adserver-help.php:2
+#: ../imasters-wp-adserver-options.php:23
+#: ../imasters-wp-adserver-options.php:29
+msgid "The options was updated."
+msgstr "As opções foram atualizadas."
+
+#: ../imasters-wp-adserver-help.php:6
+#: ../imasters-wp-adserver.php:176
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../imasters-wp-adserver-help.php:8
+msgid "How to show the ads in the template."
+msgstr "Como exibir os anúncios no template."
+
+#: ../imasters-wp-adserver-help.php:10
+msgid "The first thing is to get the ID of the group; get it at Manager group ads. Second call the iMasters AdServer function to show the ads in your template and pass to it the ID of the group. Look an example:"
+msgstr "A primeira coisa é ter o ID do grupo do anúncio; obtenha-o no Gerenciador de anúncios. Em seguida, chame a função do iMasters WP AdServer para exibir os anúncios em seu template informado a ela o ID do grupo. Veja um exemplo:"
+
+#: ../imasters-wp-adserver-help.php:14
+msgid "Where 6 (six) is the ID of a group and 2 (two) is the total of banners to show."
+msgstr "Onde 6 (seis) é o ID do grupo."
+
+#: ../imasters-wp-adserver-manager-default-ad.php:14
+#: ../imasters-wp-adserver-manager-default-ad.php:110
+#: ../imasters-wp-adserver-manager-default-ad.php:182
+msgid "Add default ad"
+msgstr "Adicionar o anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:49
+msgid "Default ad added successfully"
+msgstr "Anúncio padrão adicionado com sucesso."
+
+#: ../imasters-wp-adserver-manager-default-ad.php:64
+#: ../imasters-wp-adserver.php:174
+msgid "Manager defaults ads"
+msgstr "Gerenciar anúncios padrões"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:69
+msgid "Default ad"
+msgstr "Anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:70
+#: ../imasters-wp-adserver-manager-default-ad.php:150
+msgid "Default ad link"
+msgstr "Link do anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:71
+msgid "Group ad"
+msgstr "Grupo de anúncio"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:72
+msgid "Ad type"
+msgstr "Tipo de anúncio"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:73
+#: ../imasters-wp-adserver-manager.php:266
+msgid "Actions"
+msgstr "Ações"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:88
+#: ../imasters-wp-adserver-manager-default-ad.php:104
+msgid "Preview the default ad"
+msgstr "Visualizar o anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:95
+msgid "Any default ad found"
+msgstr "Nenhum anúncio padrão encontrado."
+
+#: ../imasters-wp-adserver-manager-default-ad.php:106
+#: ../imasters-wp-adserver-manager.php:304
+msgid "Close the preview"
+msgstr "Fechar visualização"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:117
+msgid "Default ad title"
+msgstr "Título do anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:125
+msgid "The default ad"
+msgstr "O anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-default-ad.php:159
+msgid "Group for the default ad"
+msgstr "Grupo para o anúncio padrão"
+
+#: ../imasters-wp-adserver-manager-groups.php:15
+#: ../imasters-wp-adserver-manager-groups.php:113
+#: ../imasters-wp-adserver-manager-groups.php:142
+msgid "Add group ad"
+msgstr "Adicionar grupo de anúncio"
+
+#: ../imasters-wp-adserver-manager-groups.php:29
+msgid "Group ad added successfully."
+msgstr "Grupo de anúncio adicionado com sucesso."
+
+#: ../imasters-wp-adserver-manager-groups.php:33
+#: ../imasters-wp-adserver-manager-groups.php:105
+msgid "Update groups ads"
+msgstr "Atualizar grupos de anúncios"
+
+#: ../imasters-wp-adserver-manager-groups.php:55
+msgid "Groups ads updated successfully."
+msgstr "Grupos de anúncios atualizados com sucesso."
+
+#: ../imasters-wp-adserver-manager-groups.php:67
+#: ../imasters-wp-adserver.php:173
+msgid "Manager group ads"
+msgstr "Gerenciar grupos de anúncios"
+
+#: ../imasters-wp-adserver-manager-groups.php:79
+#: ../imasters-wp-adserver-manager-groups.php:120
+msgid "Group name"
+msgstr "Nome do grupo"
+
+#: ../imasters-wp-adserver-manager-groups.php:89
+#, php-format
+msgid ""
+"You are about to delete this group ad, %s. \\n"
+" Choose [Cancel] to Cancel, [OK] to Delete."
+msgstr ""
+"Você está prestes a deletar este grupo, %s. \\n"
+"  Escolha [Cancel] para Cancelar, [OK] para Deletar."
+
+#: ../imasters-wp-adserver-manager-groups.php:89
+msgid "Delete this group ad"
+msgstr "Excluir este grupo de anúncio"
+
+#: ../imasters-wp-adserver-manager-groups.php:90
+msgid "ID of this group"
+msgstr "ID deste grupo"
+
+#: ../imasters-wp-adserver-manager-groups.php:90
+msgid "Use it in the template like that"
+msgstr "Utilize assim no template"
+
+#: ../imasters-wp-adserver-manager-groups.php:99
+msgid "Any group ad found"
+msgstr "Nenhum grupo de anúncio encontrado"
+
+#: ../imasters-wp-adserver-manager-groups.php:128
+msgid "Group dimension"
+msgstr "Dimensão do grupo"
+
+#: ../imasters-wp-adserver-manager-groups.php:136
+msgid "Manage group dimension"
+msgstr "Gerenciar grupos de dimensões"
+
+#: ../imasters-wp-adserver-manager.php:14
+msgid "The active state of the ad was updated."
+msgstr "O estado de ativação do anúncio foi atualizado."
+
+#: ../imasters-wp-adserver-manager.php:22
+#: ../imasters-wp-adserver-manager.php:141
+#: ../imasters-wp-adserver-manager.php:239
+msgid "Edit the ad"
+msgstr "Editar o anúncio"
+
+#: ../imasters-wp-adserver-manager.php:97
+msgid "Ad updated successfully"
+msgstr "Anúncio atualizado com sucesso."
+
+#: ../imasters-wp-adserver-manager.php:134
+msgid "Wenesday"
+msgstr "Quarta-feira"
+
+#: ../imasters-wp-adserver-manager.php:183
+msgid "Please, use the same ad added before. <strong>I don´t want to edit it</strong>."
+msgstr "Por favor, use o mesmo anúncio adicionado anteriormente. <strong>Não quero alterá-lo.</strong>"
+
+#: ../imasters-wp-adserver-manager.php:240
+msgid "or"
+msgstr "ou"
+
+#: ../imasters-wp-adserver-manager.php:241
+msgid "cancel"
+msgstr "cancelar"
+
+#: ../imasters-wp-adserver-manager.php:250
+#: ../imasters-wp-adserver.php:171
+msgid "Manager ads"
+msgstr "Gerenciar anúncios"
+
+#: ../imasters-wp-adserver-manager.php:255
+msgid "Title"
+msgstr "Título"
+
+#: ../imasters-wp-adserver-manager.php:256
+msgid "Ad"
+msgstr "Anúncio"
+
+#: ../imasters-wp-adserver-manager.php:258
+msgid "Group"
+msgstr "Grupo"
+
+#: ../imasters-wp-adserver-manager.php:259
+msgid "Active"
+msgstr "Ativo"
+
+#: ../imasters-wp-adserver-manager.php:260
+msgid "Expiration date"
+msgstr "Data de expiração"
+
+#: ../imasters-wp-adserver-manager.php:261
+msgid "Total clicks"
+msgstr "Total de clicks"
+
+#: ../imasters-wp-adserver-manager.php:262
+msgid "Total impressions"
+msgstr "Total de impressões"
+
+#: ../imasters-wp-adserver-manager.php:263
+msgid "Click Through Rate"
+msgstr "Taxa de cliques"
+
+#: ../imasters-wp-adserver-manager.php:263
+msgid "CTR"
+msgstr "CTR"
+
+#: ../imasters-wp-adserver-manager.php:264
+msgid "Max clicks"
+msgstr "Máximo de clicks"
+
+#: ../imasters-wp-adserver-manager.php:265
+msgid "Max impressions"
+msgstr "Máximo de impressões"
+
+#: ../imasters-wp-adserver-manager.php:277
+msgid "Preview this ad"
+msgstr "Visualizar o anúncio"
+
+#: ../imasters-wp-adserver-manager.php:280
+msgid "Yes"
+msgstr "Sim"
+
+#: ../imasters-wp-adserver-manager.php:280
+msgid "No"
+msgstr "Não"
+
+#: ../imasters-wp-adserver-manager.php:285
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: ../imasters-wp-adserver-manager.php:285
+msgid "Activate"
+msgstr "Ativar"
+
+#: ../imasters-wp-adserver-manager.php:286
+msgid "Edit"
+msgstr "Editar"
+
+#: ../imasters-wp-adserver-manager.php:287
+#, php-format
+msgid ""
+"You are about to delete this ad, %s. \\n"
+" Choose [Cancel] to Cancel, [OK] to Delete."
+msgstr ""
+"Você está prestes a excluir este anúncio, %s.\\n"
+" Escolha [Cancel] para Cancelar, [OK] para Deletar."
+
+#: ../imasters-wp-adserver-manager.php:287
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../imasters-wp-adserver-manager.php:294
+msgid "Any ad found."
+msgstr "Nenhum anúncio encontrado."
+
+#: ../imasters-wp-adserver-manager.php:302
+msgid "Preview the ad"
+msgstr "Visualização do anúncio"
+
+#: ../imasters-wp-adserver-options.php:11
+#: ../imasters-wp-adserver-options.php:64
+msgid "Save options"
+msgstr "Salvar opções"
+
+#: ../imasters-wp-adserver-options.php:33
+msgid "iMasters WP AdServer Options"
+msgstr "iMasters WP AdServer Opções"
+
+#: ../imasters-wp-adserver-options.php:40
+msgid "Date format"
+msgstr "Formato de data"
+
+#: ../imasters-wp-adserver-options.php:49
+msgid "Choose the better format date for you."
+msgstr "Escolha o melhor formato de data para você."
+
+#: ../imasters-wp-adserver-options.php:54
+msgid "Ads dimensions"
+msgstr "Dimensões dos anúncios"
+
+#: ../imasters-wp-adserver-options.php:58
+msgid "Inform <strong>one dimension by line</strong> with this format: WIDTHxHEIGHT.<strong> Example: 728x90</strong>. Don´t use spaces between the dimensions."
+msgstr "Informe <strong>uma dimensão por linha</strong> no seguinte formato: LARGURAxALTURA. <strong>Exemplo: 728x90</strong>. Não use espaços entre as dimensões."
+
+#: ../imasters-wp-adserver-uninstall.php:16
+#: ../imasters-wp-adserver-uninstall.php:20
+#: ../imasters-wp-adserver-uninstall.php:62
+#: ../imasters-wp-adserver-uninstall.php:106
+msgid "Uninstall iMasters WP AdServer"
+msgstr "Desinstalar iMasters WP AdServer"
+
+#: ../imasters-wp-adserver-uninstall.php:22
+msgid "Tables"
+msgstr "Tabelas"
+
+#: ../imasters-wp-adserver-uninstall.php:26
+#, php-format
+msgid "<li>Table '%s' has been deleted.</li>"
+msgstr "<li>Tabela '%s' foi deletada com sucesso.</li>"
+
+#: ../imasters-wp-adserver-uninstall.php:29
+#: ../imasters-wp-adserver.php:175
+msgid "Options"
+msgstr "Opções"
+
+#: ../imasters-wp-adserver-uninstall.php:34
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Option '%s' foi deletada com sucesso.</li>"
+
+#: ../imasters-wp-adserver-uninstall.php:37
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar a option '%s'.</li>"
+
+#: ../imasters-wp-adserver-uninstall.php:54
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP AdServer</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP AdServer</a> Desative esse plugin para concluir a desinstalação."
+
+#: ../imasters-wp-adserver-uninstall.php:63
+msgid "Uninstaling this plugin the options and table used by iMasters WP AdServer will be removed."
+msgstr "Desinstalando esse plugin as options e as tabelas usadas pelo iMasters WP AdServer serão removidas."
+
+#: ../imasters-wp-adserver-uninstall.php:65
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../imasters-wp-adserver-uninstall.php:66
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Esse processo é irreversível. Recomendamos que faça backup antes."
+
+#: ../imasters-wp-adserver-uninstall.php:71
+msgid "The following WordPress Options and Tables will be deleted:"
+msgstr "As seguintes Opções e Tabelas do Wordpress serão deletadas:"
+
+#: ../imasters-wp-adserver-uninstall.php:78
+msgid "WordPress Options"
+msgstr "Opções do WordPress"
+
+#: ../imasters-wp-adserver-uninstall.php:79
+msgid "WordPress Tables"
+msgstr "Tabelas do Wordpress"
+
+#: ../imasters-wp-adserver-uninstall.php:103
+msgid "Yes. Uninstall iMasters WP AdServer now"
+msgstr "Sim. Desinstalar iMasters WP AdServer agora"
+
+#: ../imasters-wp-adserver.php:166
+msgid "iMasters WP AdServer"
+msgstr "iMasters WP AdServer"
+
+#: ../imasters-wp-adserver.php:177
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../imasters-wp-adserver.php:462
+msgid "TB"
+msgstr "TB"
+
+#: ../imasters-wp-adserver.php:464
+msgid "GB"
+msgstr "GB"
+
+#: ../imasters-wp-adserver.php:466
+msgid "MB"
+msgstr "MB"
+
+#: ../imasters-wp-adserver.php:468
+msgid "KB"
+msgstr "KB"
+
+#: ../imasters-wp-adserver.php:470
+msgid "bytes"
+msgstr "bytes"
+
+#: ../imasters-wp-adserver.php:472
+msgid "unknown"
+msgstr "desconhecido"
+
+#~ msgid "Add new dimension"
+#~ msgstr "Adicionar novas Dimensões dos anúncios"
+#~ msgid "Januray"
+#~ msgstr "Janeiro"
+
+#, fuzzy
+#~ msgid "Category added successfully."
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Category updated successfully."
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Category deleted successfully."
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Delete category unsuccessful."
+#~ msgstr "Anúncio padrão adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Manager categories"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "FAQ added successfully."
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "FAQ updated successfully"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "FAQ deleted successfully."
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Manager FAQ's"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Add FAQ"
+#~ msgstr "Adicionar anúncio"
+
+#, fuzzy
+#~ msgid "Any category added. Add one first."
+#~ msgstr "Nenhum grupo criado. Crie o primeiro."
+
+#, fuzzy
+#~ msgid "Edit FAQ"
+#~ msgstr "Editar"
+
+#, fuzzy
+#~ msgid "Search"
+#~ msgstr "Março"
+
+#, fuzzy
+#~ msgid "Settings updated successfully."
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Select a file."
+#~ msgstr "Título do anúncio padrão"
+
+#, fuzzy
+#~ msgid "The file exceeded the size limit."
+#~ msgstr "O arquivo enviado excedeu o limite máximo permitido (%s)."
+
+#, fuzzy
+#~ msgid "File Manager"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Add new files"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "edit file"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "Manager File"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Manager Files"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Files"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Select one"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Times"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Explanation of usage"
+#~ msgstr "Data de expiração"
+
+#, fuzzy
+#~ msgid "Use the shortcode like that: "
+#~ msgstr "Utilize assim no template"
+
+#, fuzzy
+#~ msgid "Private"
+#~ msgstr "Ativar"
+
+#, fuzzy
+#~ msgid "Jan"
+#~ msgstr "Janeiro"
+
+#, fuzzy
+#~ msgid "Mar"
+#~ msgstr "Março"
+
+#, fuzzy
+#~ msgid "Apr"
+#~ msgstr "Abril"
+
+#, fuzzy
+#~ msgid "Jun"
+#~ msgstr "Junho"
+
+#, fuzzy
+#~ msgid "Jul"
+#~ msgstr "Julho"
+
+#, fuzzy
+#~ msgid "Aug"
+#~ msgstr "Agosto"
+
+#, fuzzy
+#~ msgid "Oct"
+#~ msgstr "Outubro"
+
+#, fuzzy
+#~ msgid "Nov"
+#~ msgstr "Não"
+
+#, fuzzy
+#~ msgid "Settings Updated"
+#~ msgstr "As opções foram atualizadas."
+
+#, fuzzy
+#~ msgid "Options saved."
+#~ msgstr "As opções foram atualizadas."
+
+#, fuzzy
+#~ msgid "Update options &raquo;"
+#~ msgstr "Atualizar grupos de anúncios"
+
+#, fuzzy
+#~ msgid "Akismet server"
+#~ msgstr "Apiki AdServer"
+
+#, fuzzy
+#~ msgid "Delete all"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Title:"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Manager"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "actionscript"
+#~ msgstr "Ações"
+
+#, fuzzy
+#~ msgid "actionscript3"
+#~ msgstr "Ações"
+
+#, fuzzy
+#~ msgid "d"
+#~ msgstr "Anúncio"
+
+#, fuzzy
+#~ msgid "delphi"
+#~ msgstr "Ajuda"
+
+#, fuzzy
+#~ msgid "perl"
+#~ msgstr "Abril"
+
+#, fuzzy
+#~ msgid "rails"
+#~ msgstr "Abril"
+
+#, fuzzy
+#~ msgid "text"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "Text"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "Library"
+#~ msgstr "Fevereiro"
+
+#, fuzzy
+#~ msgid "Update Options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "teste"
+#~ msgstr "bytes"
+
+#, fuzzy
+#~ msgid "remove"
+#~ msgstr "Anúncio remoto"
+
+#, fuzzy
+#~ msgid "Choose gallery"
+#~ msgstr "Escolher data"
+
+#, fuzzy
+#~ msgid "Manage Gallery"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Style"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Update Successfully"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Manage Albums"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Delete album ?"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Add new album"
+#~ msgstr "Adicionar o anúncio"
+
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "Anúncio"
+
+#, fuzzy
+#~ msgid " picture(s) successfully added"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid " Image(s) successfully added"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Action"
+#~ msgstr "Ações"
+
+#, fuzzy
+#~ msgid "Delete this gallery ?"
+#~ msgstr "Excluir este grupo de anúncio"
+
+#, fuzzy
+#~ msgid "Preview image"
+#~ msgstr "Visualizar o anúncio"
+
+#, fuzzy
+#~ msgid "Add page"
+#~ msgstr "Adicionar anúncio"
+
+#, fuzzy
+#~ msgid "No action"
+#~ msgstr "Ações"
+
+#, fuzzy
+#~ msgid "Delete images"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Add tags"
+#~ msgstr "Adicionar anúncio"
+
+#, fuzzy
+#~ msgid "Delete tags"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Edit thumb"
+#~ msgstr "Editar o anúncio"
+
+#, fuzzy
+#~ msgid "Delete \"%s\""
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Enter the tags"
+#~ msgstr "Gerenciar os anúncios."
+
+#, fuzzy
+#~ msgid "deleted successfully"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Pictures deleted successfully "
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Update successful"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "None"
+#~ msgstr "Não"
+
+#, fuzzy
+#~ msgid "Server"
+#~ msgstr "Apiki AdServer"
+
+#, fuzzy
+#~ msgid "Manage gallery"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Manage others gallery"
+#~ msgstr "Gerenciar os anúncios."
+
+#, fuzzy
+#~ msgid "Manage tags"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Change options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Watermark"
+#~ msgstr "Formato de data"
+
+#, fuzzy
+#~ msgid "Set fix dimension"
+#~ msgstr "Dimensões dos anúncios"
+
+#, fuzzy
+#~ msgid "Sort options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Preview"
+#~ msgstr "Visualizar o anúncio"
+
+#, fuzzy
+#~ msgid "Color"
+#~ msgstr "Fechar"
+
+#, fuzzy
+#~ msgid "false"
+#~ msgstr "Fechar"
+
+#, fuzzy
+#~ msgid "Duration time"
+#~ msgstr "Data de expiração"
+
+#, fuzzy
+#~ msgid "Reset options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "CSS file successfully updated"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Manage image tags"
+#~ msgstr "Gerenciar os anúncios."
+
+#, fuzzy
+#~ msgid "Next tags"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "Delete Tag"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Upgrade sucessful"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Update successfully"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Default style"
+#~ msgstr "Título do anúncio padrão"
+
+#, fuzzy
+#~ msgid "Choose the default style for the galleries."
+#~ msgstr "Escolha o melhor formato de data para você."
+
+#, fuzzy
+#~ msgid "Credit"
+#~ msgstr "Editar"
+
+#, fuzzy
+#~ msgid "Caption"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Edit Status"
+#~ msgstr "Editar o anúncio"
+
+#, fuzzy
+#~ msgid "Date Created"
+#~ msgstr "Formato de data"
+
+#, fuzzy
+#~ msgid "Location"
+#~ msgstr "Ações"
+
+#, fuzzy
+#~ msgid "Title :"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Default width"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "day"
+#~ msgstr "Maio"
+
+#, fuzzy
+#~ msgid "Most Active"
+#~ msgstr "Ativo"
+
+#, fuzzy
+#~ msgid "Advanced Link"
+#~ msgstr "Link do anúncio"
+
+#, fuzzy
+#~ msgid "Delete this message"
+#~ msgstr "Excluir este grupo de anúncio"
+
+#, fuzzy
+#~ msgid "Delete this direct message"
+#~ msgstr "Excluir este grupo de anúncio"
+
+#, fuzzy
+#~ msgid "TwitMe Options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Twitme`s"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Repost successful"
+#~ msgstr "Anúncio atualizado com sucesso."
+
+#, fuzzy
+#~ msgid "Logged in successfully"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "close"
+#~ msgstr "Fechar"
+
+#, fuzzy
+#~ msgid "Timeline"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Save settings"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Tweets updated."
+#~ msgstr "As opções foram atualizadas."
+
+#, fuzzy
+#~ msgid "Default"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "Comet"
+#~ msgstr "Fechar"
+
+#, fuzzy
+#~ msgid "Nacht"
+#~ msgstr "Março"
+
+#, fuzzy
+#~ msgid "Neon"
+#~ msgstr "Não"
+
+#, fuzzy
+#~ msgid "Dimensions"
+#~ msgstr "Dimensões dos anúncios"
+
+#, fuzzy
+#~ msgid "Preview URL"
+#~ msgstr "Visualizar o anúncio"
+
+#, fuzzy
+#~ msgid "Other"
+#~ msgstr "Outubro"
+
+#, fuzzy
+#~ msgid "Default (Blue)"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "White"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "3 (Default)"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "video file"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "Default Width"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "Default Height"
+#~ msgstr "Anúncio padrão"
+
+#, fuzzy
+#~ msgid "Newest"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "Edit this media"
+#~ msgstr "Editar o anúncio"
+
+#, fuzzy
+#~ msgid "Media file"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid " added successfully"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Manage Media files"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Delete this media"
+#~ msgstr "Excluir este grupo de anúncio"
+
+#, fuzzy
+#~ msgid "Delete this file ?"
+#~ msgstr "Excluir este grupo de anúncio"
+
+#, fuzzy
+#~ msgid "Playlist Preview"
+#~ msgstr "Fechar visualização"
+
+#, fuzzy
+#~ msgid "All files"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "Media title"
+#~ msgstr "Título do anúncio"
+
+#, fuzzy
+#~ msgid "Add media file"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "Manage Playlist"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid "Any file type"
+#~ msgstr "Tipo de anúncio"
+
+#, fuzzy
+#~ msgid "Next Page"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "exact fit"
+#~ msgstr "Desativar"
+
+#, fuzzy
+#~ msgid "link"
+#~ msgstr "Link do anúncio"
+
+#, fuzzy
+#~ msgid "next"
+#~ msgstr "Próximo"
+
+#, fuzzy
+#~ msgid "over"
+#~ msgstr "Novembro"
+
+#, fuzzy
+#~ msgid "Activate Ads"
+#~ msgstr "Ativar"
+
+#, fuzzy
+#~ msgid "No file"
+#~ msgstr "Arquivo do anúncio"
+
+#, fuzzy
+#~ msgid "Add File"
+#~ msgstr "Título do anúncio"
+
+#, fuzzy
+#~ msgid "File '%s (%s)' Added Successfully"
+#~ msgstr "Anúncio adicionado com sucesso."
+
+#, fuzzy
+#~ msgid "Add A File"
+#~ msgstr "Título do anúncio"
+
+#, fuzzy
+#~ msgid "File:"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Please include http:// or ftp:// in front."
+#~ msgstr ""
+#~ "Por favor, inclua <strong>http://</strong> ou <strong>ftp://</strong> na "
+#~ "frente."
+
+#, fuzzy
+#~ msgid "File"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "Edit File"
+#~ msgstr "Editar"
+
+#, fuzzy
+#~ msgid "File '%s (%s)' Edited Successfully"
+#~ msgstr "Grupos de anúncios atualizados com sucesso."
+
+#, fuzzy
+#~ msgid "Delete File"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Delete A File"
+#~ msgstr "Excluir"
+
+#, fuzzy
+#~ msgid "Manage Downloads"
+#~ msgstr "Gerenciar anúncios"
+
+#, fuzzy
+#~ msgid ""
+#~ "Displaying <strong>%s</strong> To <strong>%s</strong> Of <strong>%s</"
+#~ "strong> Files"
+#~ msgstr ""
+#~ "Por favor, inclua <strong>http://</strong> ou <strong>ftp://</strong> na "
+#~ "frente."
+
+#, fuzzy
+#~ msgid "Sorted By <strong>%s</strong> In <strong>%s</strong> Order"
+#~ msgstr ""
+#~ "Por favor, inclua <strong>http://</strong> ou <strong>ftp://</strong> na "
+#~ "frente."
+
+#, fuzzy
+#~ msgid "Total Files:"
+#~ msgstr "Total de clicks"
+
+#, fuzzy
+#~ msgid "Total Size:"
+#~ msgstr "Total de clicks"
+
+#, fuzzy
+#~ msgid "Total Hits:"
+#~ msgstr "Total de clicks"
+
+#, fuzzy
+#~ msgid "Group By:"
+#~ msgstr "Grupo"
+
+#, fuzzy
+#~ msgid "TiB"
+#~ msgstr "TB"
+
+#, fuzzy
+#~ msgid "GiB"
+#~ msgstr "GB"
+
+#, fuzzy
+#~ msgid "MiB"
+#~ msgstr "MB"
+
+#, fuzzy
+#~ msgid "KiB"
+#~ msgstr "KB"
+
+#, fuzzy
+#~ msgid "Twitter login and password updated. "
+#~ msgstr "As opções foram atualizadas."
+
+#, fuzzy
+#~ msgid "Text for this Twitter update"
+#~ msgstr "As opções foram atualizadas."
+
+#, fuzzy
+#~ msgid "Save WP->Twitter Options"
+#~ msgstr "Salvar opções"
+
+#, fuzzy
+#~ msgid "Manage"
+#~ msgstr "Gerenciar anúncios"
+
